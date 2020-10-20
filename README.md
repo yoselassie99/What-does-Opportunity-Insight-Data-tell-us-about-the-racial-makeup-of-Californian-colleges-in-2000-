@@ -50,5 +50,9 @@ San Jose State University has an extremely high Asian/Pacific population share a
 #### Anchor 5
 Woodbury College has high Black, Hispanic and "Alien" population shares, with Hispanic and Alien specifically having population shares over 1 SD above the average. "Other" population share is over 1 SD below the state average. 
 
-## Summary
-- The five anchors show various deviations from the mean. However, Woodbury College (with three different groups over 1 SD away from the mean) shows the most deviation. It is unclear whether this is because Woodbury is a  
+
+## Summary and Notes 
+- The five anchors show various deviations from the mean. However, Woodbury College (with three different groups over 1 SD away from the mean) shows the most deviation.
+- Pomona has the least diversity in terms of demographic shares, as Asian/Pacific, Black, Hispanic and "Alien" are all below respective averages while "Other" is above state average. 
+- Small averages accompanied by large standard deviations indicate although some universities are trying to diversify their student bodies, others have significant progress to make. 
+It is important to note that inclusion of large public universities like UCLA and UC Berkeley may skew the data to a degree as their student body is significantly larger than small liberal arts universities. 
