@@ -15,8 +15,12 @@ Data on racial composition in America college populations was collected through 
 From there, data was filtered to remove non-CA and non-four year institutions. Colleges were also removed if they did not include data on one or more racial group. Others are considered mostly Caucassian but have the potential to include Native Americans as well. 
 
 ## Data Answer
-The five corrected anchors paint different pictures on the racial make-up of their respective commmunities. 
+The five corrected anchors paint different pictures on the racial make-up of their respective commmunities. Data is compared to the state average to determine whether a certain racial demographic is considered high or low.
+
+### Table 1: Z-Scores for Corrected Anchors
 ![alt text](https://github.com/yoselassie99/What-does-Opportunity-Insight-Data-tell-us-about-the-racial-makeup-of-Californian-colleges-in-2000-/blob/main/Correct%20anchor.png)
+
+###
 
 ### Anchor 1
 University of San Francisco has a high "alien" or non-US citizen share as well as low Hispanic share.
