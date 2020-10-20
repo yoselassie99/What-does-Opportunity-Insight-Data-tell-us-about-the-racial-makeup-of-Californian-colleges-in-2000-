@@ -16,3 +16,4 @@ From there, data was filtered to remove non-CA and non-four year institutions. C
 
 ## Data Answer
 The five corrected anchors paint different pictures on the racial make-up of their respective commmunities. 
+![alt text](
