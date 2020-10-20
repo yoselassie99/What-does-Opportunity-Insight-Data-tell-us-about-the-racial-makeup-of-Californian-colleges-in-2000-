@@ -30,7 +30,7 @@ The five corrected anchors paint different pictures on the racial make-up of the
 ### Table 1: State Average for Racial Groups and Standard Deviation
 ![alt_text](https://github.com/yoselassie99/What-does-Opportunity-Insight-Data-tell-us-about-the-racial-makeup-of-Californian-colleges-in-2000-/blob/main/State%20Average%20and%20Standard%20Deviation.png)
 
-"Other", which we can assume is predominantely Caucassian, have the largest population share at 4 year universities in California (60.6%).
+"Other", which we can assume is predominantely Caucassian, have the largest population share at 4 year universities in California (60.6%). The other four groups (Asian/Pacific, Black, Hispanic and "Alien") represent the rest of California's pollution share. Interstingly, Asian/Pacific, Black and "Alien" have relatively high SD values for their respective means. This indicates some universities are making larger strides than others in diversifying their student population than others.
 
 ### Table 2: Z-Scores for Corrected Anchors
 ![alt text](https://github.com/yoselassie99/What-does-Opportunity-Insight-Data-tell-us-about-the-racial-makeup-of-Californian-colleges-in-2000-/blob/main/Correct%20anchor.png)
@@ -51,4 +51,4 @@ San Jose State University has an extremely high Asian/Pacific population share a
 Woodbury College has high Black, Hispanic and "Alien" population shares, with Hispanic and Alien specifically having population shares over 1 SD above the average. "Other" population share is over 1 SD below the state average. 
 
 ## Summary
-- 
+- The five anchors show various deviations from the mean. However, Woodbury College (with three different groups over 1 SD away from the mean) shows the most deviation. It is unclear whether this is because Woodbury is a  
