@@ -15,7 +15,7 @@ Data on racial composition in America college populations was collected through 
 From there, data was filtered to remove non-CA and non-four year institutions. Colleges were also removed if they did not include data on one or more racial group. Others are considered mostly Caucassian but have the potential to include Native Americans as well. 
 
 ## Data Answer
-The five corrected anchors paint different pictures on the racial make-up of their respective commmunities. Data is compared to the state average to determine whether a certain racial demographic is considered high or low.
+The five corrected anchors paint different pictures on the racial make-up of their respective commmunities. Respective z-scores are relative to the state average to determine whether a certain racial demographic is considered high or low.
 
 ### Table 1: Z-Scores for Corrected Anchors
 ![alt text](https://github.com/yoselassie99/What-does-Opportunity-Insight-Data-tell-us-about-the-racial-makeup-of-Californian-colleges-in-2000-/blob/main/Correct%20anchor.png)
@@ -30,7 +30,7 @@ University of San Francisco has a high "alien" or non-US citizen share as well a
 Pomona College has a low Hispanic and "alien" share while having a high "other" share. 
 
 ### Anchor 3
-Mount St. Mary's College has a high Black population share, high hispanic share, low "alien" share and low "other" share. 
+Mount St. Mary's College has a high Black population share, high Hispanic share, low "alien" share and low "other" share. Asian/Pacific population share is close 
 
 ### Anchor 4
-San Jose State University 
+San Jose State University has an extremely high Asian/Pacific population share as well as a low "other" share. Hispanic and "alien" population shares are close to the state average. 
