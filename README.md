@@ -25,7 +25,8 @@ From there, data was filtered to remove non-CA and non-four year institutions. C
 
 
 ## Data Answer
-The five corrected anchors paint different pictures on the racial make-up of their respective commmunities. Respective z-scores are relative to the state average to determine whether a certain racial demographic is considered high or low.
+The five corrected anchors paint different pictures on the racial make-up of their respective commmunities. Respective z-scores are relative to the state average to determine whether a certain racial demographic is considered high or low. The full cluster analysis is linked below:
+
 
 ### Table 1: State Average for Racial Groups and Standard Deviation
 ![alt_text](https://github.com/yoselassie99/What-does-Opportunity-Insight-Data-tell-us-about-the-racial-makeup-of-Californian-colleges-in-2000-/blob/main/State%20Average%20and%20Standard%20Deviation.png)
