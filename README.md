@@ -32,14 +32,14 @@ The five corrected anchors paint different pictures on the racial make-up of the
 ### Table 2: State Average for Racial Groups and Standard Deviation
 ![alt_text](https://github.com/yoselassie99/What-does-Opportunity-Insight-Data-tell-us-about-the-racial-makeup-of-Californian-colleges-in-2000-/blob/main/State%20Average%20and%20Standard%20Deviation.png)
 
-### Anchor 1
+#### Anchor 1
 University of San Francisco has a high "alien" or non-US citizen share as well as low Hispanic share. Asian/Pacific population share is relatively high while Black population share is close to state average. 
 
-### Anchor 2
-Pomona College has a low Hispanic and "alien" share while having a high "other" share. 
+#### Anchor 2
+Pomona College has a low Hispanic and "alien" share while having a high "other" share. "Other" population share is also higher than state average. 
 
-### Anchor 3
-Mount St. Mary's College has a high Black population share, high Hispanic share, low "alien" share and low "other" share. Asian/Pacific population share is close 
+#### Anchor 3
+Mount St. Mary's College has a high Black population share, high Hispanic share, low "alien" share and low "other" share. Asian/Pacific population share is close to state average. 
 
-### Anchor 4
+#### Anchor 4
 San Jose State University has an extremely high Asian/Pacific population share as well as a low "other" share. Hispanic and "alien" population shares are close to the state average. 
