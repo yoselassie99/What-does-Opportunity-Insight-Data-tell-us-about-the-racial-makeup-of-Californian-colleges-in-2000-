@@ -1,9 +1,9 @@
 # What does Opportunity Insight Data tell us about the racial makeup of Californian colleges in 2000?
 
 ## Background
-The issue of race and college admittance has been a controversial topic for years. Colleges for years have placed emphasis on creating a more diverse and inclusive community that encourages ecclectic and motivated thinkers. While this is somewhat of an uncontroversial approach to education, concerns on racial quotas and affirmative action force individuals to question whether college admittance is purely merit based or partially motivated by ethnic background. This is typically the argument when a highly accomplished student is not accepted to the university of their dream. However, 
+The issue of race and college admittance has been a controversial topic for years. Colleges for years have placed emphasis on creating a more diverse and inclusive community that encourages ecclectic and motivated thinkers. While this is somewhat of an uncontroversial approach to education, concerns on racial quotas and affirmative action force individuals to question whether college admittance is purely merit based or partially motivated by ethnic background. This is an argument frequently used when a highly accomplished student is not accepted to the university of his/her dream. 
 
-This project will investigate the racial makeup of four year colleges and university in California from the year 2000.  
+This project will investigate the racial makeup of four year colleges and university in California from the year 2000. In investigating
 
 ## Business Question
 What does Opportunity Insight Data tell us about the racial makeup of Californian colleges in 2000?
@@ -30,6 +30,7 @@ The five corrected anchors paint different pictures on the racial make-up of the
 ### Table 1: State Average for Racial Groups and Standard Deviation
 ![alt_text](https://github.com/yoselassie99/What-does-Opportunity-Insight-Data-tell-us-about-the-racial-makeup-of-Californian-colleges-in-2000-/blob/main/State%20Average%20and%20Standard%20Deviation.png)
 
+"Other", which we can assume is predominantely Caucassian, have the largest population share at 4 year universities in California (60.6%).
 
 ### Table 2: Z-Scores for Corrected Anchors
 ![alt text](https://github.com/yoselassie99/What-does-Opportunity-Insight-Data-tell-us-about-the-racial-makeup-of-Californian-colleges-in-2000-/blob/main/Correct%20anchor.png)
@@ -47,4 +48,7 @@ Mount St. Mary's College has a high Black population share, high Hispanic share,
 San Jose State University has an extremely high Asian/Pacific population share as well as a low "other" share. Hispanic and "alien" population shares are close to the state average. 
 
 #### Anchor 5
-Woodbury College has high Black, Hispanic and "Alien" population shares, with Hispanic and Alien specifically having population shares over 1 SD above the average. 
+Woodbury College has high Black, Hispanic and "Alien" population shares, with Hispanic and Alien specifically having population shares over 1 SD above the average. "Other" population share is over 1 SD below the state average. 
+
+## Summary
+- 
