@@ -1,12 +1,12 @@
-# What does Opportunity Insight Data tell us about the racial makeup of Californian colleges in 2000?
+# What does Opportunity Insight Data tell us about the racial makeup of California colleges in 2000?
 
 ## Background
-The issue of race and college admittance has been a controversial topic for years. Colleges for years have placed emphasis on creating a more diverse and inclusive community that encourages ecclectic and motivated thinkers. While this is somewhat of an uncontroversial approach to education, concerns on racial quotas and affirmative action force individuals to question whether college admittance is purely merit based or partially motivated by ethnic background. This is an argument frequently used when a highly accomplished student is not accepted to the university of his/her dream. While some fear colleges are becoming more focused on diversity than achievements, others believe colleges have a long way until achieving educational equity. 
+The issue of race and college admittance has been a controversial topic for years. Colleges for years have placed emphasis on creating a more diverse and inclusive community that encourages ecclectic and motivated [thinkers](https://www.usnews.com/education/best-colleges/articles/diversity-in-college-and-why-it-matters#:~:text=Why%20Colleges%20Value%20Diversity&text=Diverse%20college%20campuses%20offer%20more,change%20minds%20or%20shape%20ideas.) While this is somewhat of an uncontroversial approach to education, concerns on racial quotas and affirmative action force individuals to question whether college admittance is purely merit based or partially motivated by ethnic background. This is an argument frequently used when a highly accomplished student is not accepted to the university of his/her dream. While some fear colleges are becoming more focused on diversity than achievements, others believe colleges have a long way until achieving educational equity. 
 
 This project will investigate the racial makeup of four year colleges and university in California from the year 2000. In investigating racial makeup, we want to analyze the state of California's population share per demographic as well as which direction specific universities are deviating from the state's averages. 
 
 ## Business Question
-What does Opportunity Insight Data tell us about the racial makeup of Californian colleges in 2000?
+What does Opportunity Insight Data tell us about the racial makeup of California colleges in 2000?
 
 ## Data Source
 Data on racial composition in America college populations was collected through Opportunity Insight data.
@@ -26,7 +26,7 @@ From there, data was filtered to remove non-CA and non-four year institutions. C
 
 ## Data Answer
 The five corrected anchors paint different pictures on the racial make-up of their respective commmunities. Respective z-scores are relative to the state average to determine whether a certain racial demographic is considered high or low. The full cluster analysis is linked below:
-
+https://github.com/yoselassie99/What-does-Opportunity-Insight-Data-tell-us-about-the-racial-makeup-of-Californian-colleges-in-2000-/blob/main/MiniProject3%20Cluster%20Analysis.xlsx
 
 ### Table 1: State Average for Racial Groups and Standard Deviation
 ![alt_text](https://github.com/yoselassie99/What-does-Opportunity-Insight-Data-tell-us-about-the-racial-makeup-of-Californian-colleges-in-2000-/blob/main/State%20Average%20and%20Standard%20Deviation.png)
@@ -56,4 +56,5 @@ Woodbury College has high Black, Hispanic and "Alien" population shares, with Hi
 - The five anchors show various deviations from the mean. However, Woodbury College (with three different groups over 1 SD away from the mean) shows the most deviation.
 - Pomona has the least diversity in terms of demographic shares, as Asian/Pacific, Black, Hispanic and "Alien" are all below respective averages while "Other" is above state average. 
 - Small averages accompanied by large standard deviations indicate although some universities are trying to diversify their student bodies, others have significant progress to make. 
-It is important to note that inclusion of large public universities like UCLA and UC Berkeley may skew the data to a degree as their student body is significantly larger than small liberal arts universities. 
+- It is important to note that inclusion of large public universities like UCLA and UC Berkeley may skew the data to a degree as their student body is significantly larger than small liberal arts universities. 
+- 
