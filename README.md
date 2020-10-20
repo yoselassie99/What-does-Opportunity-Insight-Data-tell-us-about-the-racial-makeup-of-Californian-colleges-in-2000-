@@ -54,7 +54,7 @@ Woodbury College has high Black, Hispanic and "Alien" population shares, with Hi
 
 ## Summary and Notes 
 - The five anchors show various deviations from the mean. However, Woodbury College (with three different groups over 1 SD away from the mean) shows the most deviation.
-- Pomona has the least diversity in terms of demographic shares, as Asian/Pacific, Black, Hispanic and "Alien" are all below respective averages while "Other" is above state average. 
-- Small averages accompanied by large standard deviations indicate although some universities are trying to diversify their student bodies, others have significant progress to make. 
+- Pomona has the least diversity in terms of demographic shares, as Asian/Pacific, Black, Hispanic and "Alien" are all below respective averages while "Other" is above state average.
+- Small averages accompanied by large standard deviations indicate although some universities are trying to diversify their student bodies, others have significant progress to make. There is no established or righteous ethnic makeup but having under 4% Black population share does not indicate diversification.
 - It is important to note that inclusion of large public universities like UCLA and UC Berkeley may skew the data to a degree as their student body is significantly larger than small liberal arts universities. 
-- 
+- Comparing California private vs public colleges could provide further information on how colleges are approaching diversity. 
