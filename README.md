@@ -1,7 +1,7 @@
 # What does Opportunity Insight Data tell us about the racial makeup of Californian colleges in 2000?
 
 ## Background
-The issue of race and college admittance has been a controversial topic for years. Colleges for years have placed emphasis on creating a more diverse and inclusive community that encourages ecclectic and motivated thinkers. While this is somewhat of an uncontroversial approach to education, concerns on racial quotas and affirmative action force individuals to question whether college admittance is purely merit based or partially motivated by ethnic background. This is an argument frequently used when a highly accomplished student is not accepted to the university of his/her dream. 
+The issue of race and college admittance has been a controversial topic for years. Colleges for years have placed emphasis on creating a more diverse and inclusive community that encourages ecclectic and motivated thinkers. While this is somewhat of an uncontroversial approach to education, concerns on racial quotas and affirmative action force individuals to question whether college admittance is purely merit based or partially motivated by ethnic background. This is an argument frequently used when a highly accomplished student is not accepted to the university of his/her dream. While some fear colleges are becoming more focused on diversity than achievements, others believe colleges have a long way until achieving educational equity. 
 
 This project will investigate the racial makeup of four year colleges and university in California from the year 2000. In investigating
 
