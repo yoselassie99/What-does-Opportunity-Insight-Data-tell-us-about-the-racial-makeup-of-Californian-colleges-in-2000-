@@ -12,7 +12,16 @@ What does Opportunity Insight Data tell us about the racial makeup of California
 Data on racial composition in America college populations was collected through Opportunity Insight data.
 (https://github.com/yoselassie99/What-does-Opportunity-Insight-Data-tell-us-about-the-racial-makeup-of-Californian-colleges-in-2000-/blob/main/Opportunity%20Insights%20Raw%20Data.xlsx)
 
-From there, data was filtered to remove non-CA and non-four year institutions. Colleges were also removed if they did not include data on one or more racial group. Others are considered mostly Caucassian but have the potential to include Native Americans as well. 
+From there, data was filtered to remove non-CA and non-four year institutions. Colleges were also removed if they did not include data on one or more racial group. "Other" is considered mostly Caucassian but have the potential to include Native Americans as well due to the ambiguity. The other demographics and their respective z-score titles include:
+
+- Asian or Pacific (z_asian_or_pacific)
+
+- African American (z_black)
+
+- Latino/Hispanic (z_hisp)
+
+- "Alien" or Non-United States citizen (z_alien)
+
 
 ## Data Answer
 The five corrected anchors paint different pictures on the racial make-up of their respective commmunities. Respective z-scores are relative to the state average to determine whether a certain racial demographic is considered high or low.
@@ -24,7 +33,7 @@ The five corrected anchors paint different pictures on the racial make-up of the
 ![alt_text](https://github.com/yoselassie99/What-does-Opportunity-Insight-Data-tell-us-about-the-racial-makeup-of-Californian-colleges-in-2000-/blob/main/State%20Average%20and%20Standard%20Deviation.png)
 
 ### Anchor 1
-University of San Francisco has a high "alien" or non-US citizen share as well as low Hispanic share.
+University of San Francisco has a high "alien" or non-US citizen share as well as low Hispanic share. Asian/Pacific population share is relatively high while Black population share is close to state average. 
 
 ### Anchor 2
 Pomona College has a low Hispanic and "alien" share while having a high "other" share. 
