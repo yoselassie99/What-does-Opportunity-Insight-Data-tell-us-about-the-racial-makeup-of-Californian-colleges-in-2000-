@@ -16,4 +16,4 @@ From there, data was filtered to remove non-CA and non-four year institutions. C
 
 ## Data Answer
 The five corrected anchors paint different pictures on the racial make-up of their respective commmunities. 
-![alt text](
+![alt text](https://github.com/yoselassie99/What-does-Opportunity-Insight-Data-tell-us-about-the-racial-makeup-of-Californian-colleges-in-2000-/blob/main/Correct%20anchor.png)
